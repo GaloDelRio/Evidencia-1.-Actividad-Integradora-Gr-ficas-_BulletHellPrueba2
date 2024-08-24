@@ -77,6 +77,7 @@
     <Compile Include="Assets\Shooting4.cs" />
     <Compile Include="Assets\Shooting6.cs" />
     <Compile Include="Assets\LifeFollowCamara.cs" />
+    <Compile Include="Assets\EndGame.cs" />
     <Compile Include="Assets\PlayerBullet.cs" />
     <Compile Include="Assets\LifeDown.cs" />
     <Compile Include="Assets\Vertical 2D Shooting BE4\ReadMe\Scripts\ReadmeBE4.cs" />
